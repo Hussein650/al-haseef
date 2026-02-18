@@ -6,8 +6,4 @@ php artisan key:generate
 
 php artisan migrate
 
-// for server
-php artisan serve
-
-// for React
-npm run dev
+composer run dev
